@@ -22,6 +22,6 @@ Dockerfile
 *.xls
 *.xlsx
 *.log
-/test/.ipynb_checkpoints/
-/test/sla/.ipynb_checkpoints/
+/pydata-book-1st-edition-test/.ipynb_checkpoints/
+/pydata-book-1st-edition-test/sla/.ipynb_checkpoints/
 /pydata-book-1st-edition/.ipynb_checkpoints/

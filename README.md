@@ -1,3 +1,2 @@
 # pydata-notes
-Materials and IPython notebooks for "Python for Data Analysis" (1st edition) by Wes McKinney,
-published by O'Reilly Media
+关于python数据分析和机器学习的实验
